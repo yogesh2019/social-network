@@ -1,0 +1,20 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh2019/social-network.git"
+  },
+  "keywords": [],
+  "author": "yogesh2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh2019/social-network/issues"
+  },
+  "homepage": "https://github.com/yogesh2019/social-network#readme"
+}
